@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "f87a46c2930b8c17",
+    "type": "split",
+    "children": [
+      {
+        "id": "cdf88d18a9b8df44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea1699d444a19213",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "clippings/「ナガジン」発見！長崎の歩き方.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "「ナガジン」発見！長崎の歩き方"
+            }
+          },
+          {
+            "id": "a87a1ceb662de728",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025-05-26.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-05-26"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fd8e3b309de897c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed9bd7ea2c772df3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8726d821c74deec8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fa130031589a70e5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "103d3f6548df56e1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eaec2edb6e7d5af3",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e5ebfdee334f390",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65de994b23c8a974",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "f83c6c26060d7177",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "55a5e6e87b98ccf2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "089f06e1cbc8f113",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "50a1dba708c90aa9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kindle-plugin:Sync your Kindle highlights": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "a87a1ceb662de728",
+  "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-05-26 08.34.36.excalidraw.md",
+    "2025-05-26.md",
+    "clippings/「ナガジン」発見！長崎の歩き方.md",
+    "kindle/裕-イーロン・ショック　元Twitterジャパン社長が見た「破壊と創造」の215日.md",
+    "kindle/圭一郎-はみだしの人類学　ともに生きる方法 NHK出版　学びのきほん.md",
+    "10_デイリー/2025-05-25.md",
+    "clippings/社名をフレンテから湖池屋に戻せませんか…私が｢のり塩｣を生み出した創業家にそう直訴した理由 日本で初めてポテトチップスを量産化した会社の矜持 (6ページ目).md",
+    "10_デイリー/2025-05-24.md",
+    "memo/flagship cc リサーチ.md",
+    "memo/asobicaリサーチ.md",
+    "clippings/Flagship株式会社CEOが語るこれまでとこれからVol.1  フラッグシップ株式会社.md",
+    "10_デイリー/2025-05-18.md",
+    "clippings/広報に転身して気づいたシェフと広報の共通点｜いしさん　石川雄一郎.md",
+    "clippings/広報に転身して気づいたシェフと広報の共通点｜いしさん　石川雄一郎 1.md",
+    "clippings/起業家インタビュー 株式会社スマイルズ 遠山正道 社長  企画経営アカデミー.md",
+    "publication/asobica-impression.md",
+    "publication",
+    "publication/asobica_impression.md",
+    "clippings/「大人の都合」では、人の心は動かない。大切にしたい「視点」とは？スープストックトーキョー創業者 遠山正道さん.md",
+    "スクリーンショット 2025-05-18 18.12.41 1.png",
+    "スクリーンショット 2025-05-18 18.12.41 2.png",
+    "スクリーンショット 2025-05-18 18.12.41.png",
+    "2025-05-18.md",
+    "Untitled 1.canvas",
+    "clippings/Asobica 今田孝哉｜企業の経営を“顧客中心”に！ロイヤル顧客プラットフォーム「coorum」で一歩先を行くカスタマーサクセスの実現.md",
+    "Untitled.canvas",
+    "clippings/【入社エントリ】仕事にくすぶっていた私が、熱狂できる組織とサービスに出会った話｜やないはるか  Asobica PR.md",
+    "clippings/Soup Stock Tokyo社長・松尾真継　原点は「今も昔も生意気上等！」.md",
+    "clippings/花王株式会社  coorum（コーラム）.md",
+    "clippings/すかいらーく「しゃぶ葉」コミュニティ運営でUGC増加！ 成功要因：入会ハードルをあえて高く設定.md",
+    "clippings/スタートアップで広報PRを立ち上げる！大事にしていたこと三か条｜やないはるか  Asobica PR.md",
+    "memo/KTさんへ ユーザーコミュニティを巡る開拓者たち草案.md",
+    "Excalidraw",
+    "10_デイリー/2025-05-16-presentation.pdf",
+    "presentation.pdf",
+    "x.pdf",
+    "clippings",
+    "memo"
+  ]
+}
