@@ -2,6 +2,11 @@
 
 Cursorを活用し対話的にTODO管理を行うexampleです。
 
+## 必要なもの
+- Cursor
+  - タスク管理のために必要です
+- Obsidian
+  - kindleやclippingsを収集するのに必要です
 
 ## 📁 システム構成
 
