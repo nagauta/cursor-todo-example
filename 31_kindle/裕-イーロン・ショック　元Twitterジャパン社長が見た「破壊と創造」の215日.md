@@ -4,7 +4,7 @@ kindle-sync:
   title: イーロン・ショック　元Twitterジャパン社長が見た「破壊と創造」の215日 (文春e-book)
   author: 笹本 裕
   asin: B0DBL7GWP3
-  lastAnnotatedDate: '2025-05-23'
+  lastAnnotatedDate: '2025-06-01'
   bookImageUrl: 'https://m.media-amazon.com/images/I/61AXpTamLaL._SY160.jpg'
   highlightsCount: 3
 ---
